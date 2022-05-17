@@ -11,6 +11,8 @@ GAN, Tranformer, GRU based Tire-series Anomaly Detection with HAI dataset
 - This GAN is 
   - [code](https://github.com/manigalati/usad)
   - [Youtube explaination](https://www.youtube.com/watch?v=gCleQ9JxibI&ab_channel=%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90%EC%82%B0%EC%97%85%EA%B2%BD%EC%98%81%EA%B3%B5%ED%95%99%EB%B6%80DSBA%EC%97%B0%EA%B5%AC%EC%8B%A4)
+- You have to adjust the threshold to your model result
+
 
 ### 2. GAN based model colab code
 - run Timeseries_Anomaly_Detection_Transformer_colab.ipynb at colab
