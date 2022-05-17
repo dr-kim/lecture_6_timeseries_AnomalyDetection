@@ -22,7 +22,7 @@ GAN, Tranformer, GRU based Tire-series Anomaly Detection with HAI dataset
 
 
 
-Term 프로젝트를 소개합니다!!
+## Term 프로젝트를 소개합니다!!
 
 Time-Series Anomaly detection을 수행하는데는 여러가지 모델이 있습니다.
 
@@ -40,9 +40,9 @@ GAN 기반 Anomaly detection의 설명 유튜브 링크입니다.
 https://www.youtube.com/watch?v=gCleQ9JxibI&ab_channel=%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90%EC%82%B0%EC%97%85%EA%B2%BD%EC%98%81%EA%B3%B5%ED%95%99%EB%B6%80DSBA%EC%97%B0%EA%B5%AC%EC%8B%A4
 
 - 데이터 준비
-1) 데이터를 dacon에서 다운받은 후(https://dacon.io/competitions/official/235757/data)
-2) 구글 드라이브에 업로드 합니다
-3) colab을 수행하며 로그인 밑 구글드라이브를 colab에 연동합니다
+  - 1) 데이터를 dacon에서 다운받은 후(https://dacon.io/competitions/official/235757/data)
+  - 2) 구글 드라이브에 업로드 합니다
+  - 3) colab을 수행하며 로그인 밑 구글드라이브를 colab에 연동합니다
 
 - 학습
 
