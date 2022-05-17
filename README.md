@@ -19,7 +19,7 @@ GAN, Tranformer, GRU based Tire-series Anomaly Detection with HAI dataset
 - You can choice the model in Transformer or GRU.
   - model_type='transformer' or model_type='gru'
 
-
+<img src="fig/gan_model_result.png">
 
 
 ## Term 프로젝트를 소개합니다!!
@@ -47,4 +47,6 @@ https://www.youtube.com/watch?v=gCleQ9JxibI&ab_channel=%EA%B3%A0%EB%A0%A4%EB%8C%
 - 학습
 
 - 결과
-실제 anomal이 발생했을 때(주황색 그래프가 솟은 부분)를 잡기 위해 THRESHOLD를 지정해 줍니다(빨간선)
+  - 실제 anomal이 발생했을 때(주황색 그래프가 솟은 부분)를 잡기 위해 THRESHOLD를 지정해 줍니다(빨간선)
+<img src="fig/gan_result_graph.png">
+<img src="fig/test_result.png">
